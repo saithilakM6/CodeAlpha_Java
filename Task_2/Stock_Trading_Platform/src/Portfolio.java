@@ -1,4 +1,4 @@
-package CodeAlpha_Stock_Trading_Platform;
+package Stock_Trading_Platform;
 
 import java.util.ArrayList;
 import java.util.List;

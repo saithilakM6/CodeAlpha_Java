@@ -1,4 +1,4 @@
-package CodeAlpha_Stock_Trading_Platform;
+package Stock_Trading_Platform;
 
 public class PortfolioItem {
     private Stock stock;
